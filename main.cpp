@@ -1,4 +1,4 @@
-ll gcd(ll a, ll b)
+long long gcd(long long a, long long b)
 {
 	if (a == 0 || b == 0)
 		return a + b;
